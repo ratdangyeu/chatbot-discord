@@ -2,7 +2,7 @@
   "name": "chatbot-discord",
   "version": "1.0.0",
   "description": "chatbot for discord",
-  "main": "server.js",
+  "main": "index.js",
   "dependencies": {
     "discord.js": "^12.5.3",
     "dotenv": "^10.0.0",
